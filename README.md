@@ -23,7 +23,7 @@
 - 🚀 Building full-stack apps using **MERN Stack**
 - 📚 Solving DSA problems for **Competitive Programming**
 - 🔍 Exploring Backend & System Design
-- 💬 Open to Internship Opportunities
+- 💬 Open to Work Opportunities
 
 
 
