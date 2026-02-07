@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- ================= Animated Name Header ================= -->
 
-<!--
-**LIGHT-25/LIGHT-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Rupak+Chatterjee;Full+Stack+MERN+Developer;Software+Engineering+Intern;AI+%7C+ML+Explorer;Building+Scalable+Systems" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/3oz8xKaR836UJOYeOc/giphy.gif" width="90"/>
+</div>
+
+
+
+---
+## 👨‍💻 About Me
+
+<img align="right" width="220" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+
+- 🎓 6th Semester CS Student
+- 🚀 Building full-stack apps using **MERN Stack**
+- 📚 Solving 300+ DSA problems before 2026
+- 🔍 Exploring Backend & System Design
+- 💬 Open to Internship Opportunities
+
+
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,python" />
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,html,css" />
+</p>
+
+### 🤖 AI / ML & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</p>
+
+### ⚙️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LIGHT-25&theme=github-light)
+---
+
+<h3 align="center">“I just wanna learn by doing.Anything new and interesting I am ready”</h3>
