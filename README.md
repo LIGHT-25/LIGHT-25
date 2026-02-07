@@ -58,5 +58,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LIGHT-25&theme=github-light)
 ---
+<div align="center">
+  <a href="https://www.linkedin.com/in/rupak-chatterjee-790652242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <h3 align="center">“I just wanna learn by doing.Anything new and interesting I am ready”</h3>
