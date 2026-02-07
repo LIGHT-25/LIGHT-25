@@ -21,7 +21,7 @@
 
 - 🎓 6th Semester CS Student
 - 🚀 Building full-stack apps using **MERN Stack**
-- 📚 Solving 300+ DSA problems before 2026
+- 📚 Solving DSA problems for **Competitive Programming**
 - 🔍 Exploring Backend & System Design
 - 💬 Open to Internship Opportunities
 
