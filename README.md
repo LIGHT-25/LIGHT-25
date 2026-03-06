@@ -57,6 +57,8 @@
 ## 📊 GitHub Analytics
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LIGHT-25&theme=github-light)
+
+https://github-readme-streak-stats.herokuapp.com/?user=LIGHT-25
 ---
 <div align="center">
   <a href="https://www.linkedin.com/in/rupak-chatterjee-790652242/" target="_blank">
