@@ -17,7 +17,7 @@
 ---
 ## 👨‍💻 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+<img align="right" width="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
 - 🎓 6th Semester CS Student
 - 🚀 Building full-stack apps using **MERN Stack**
