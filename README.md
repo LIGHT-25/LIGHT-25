@@ -46,8 +46,6 @@ Driven by curiosity and a passion to learn new things in computer science.
 
 ## 📊 GitHub Analytics
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LIGHT-25&theme=github-light)
-
 ![](https://github-readme-stats.vercel.app/api?username=LIGHT-25&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LIGHT-25&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LIGHT-25&theme=radical&hide_border=false&layout=compact)
