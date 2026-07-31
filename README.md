@@ -16,7 +16,7 @@
 I enjoy exploring how technology works and continuously improving my skills.  
 Driven by curiosity and a passion to learn new things in computer science.  
 
-- 🎓 3rd Year B.Tech CSE Student  
+- 🎓 4th Year B.Tech CSE Student  
 - 🚀 Exploring Full Stack Development (MERN)  
 - 📚 Learning DSA & strengthening problem-solving skills  
 - 🔍 Interested in Software Development & System Design  
